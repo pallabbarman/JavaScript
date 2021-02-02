@@ -13,11 +13,3 @@ for (let i = 0; i < numbers.length; i++) {
     }
     //console.log(element);
 }
-
-function doSomething(x, y = 4){
-
-    console.log(y);
-    
-    }
-    
-    doSomething(3,2);
