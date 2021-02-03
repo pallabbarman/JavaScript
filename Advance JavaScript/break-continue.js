@@ -4,12 +4,12 @@ for (let i = 0; i < numbers.length; i++) {
     if (element > 5) {
         break;
     }
-    //console.log(element);
+    console.log(element);
 }
 for (let i = 0; i < numbers.length; i++) {
     const element = numbers[i];
     if (element < 0) {
         continue;
     }
-    //console.log(element);
+    console.log(element);
 }
